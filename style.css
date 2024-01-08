@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
   
-    background: linear-gradient(rgb(0, 249, 236), rgb(71, 150, 229));
+    background: linear-gradient(rgb(88, 48, 190), rgb(160, 72, 243));
   }
   
   #noButton {
@@ -51,7 +51,7 @@ body {
   }
   
   .btn {
-    background-color: #017cff;
+    background-color: #8f2bed;
     color: white;
     font-weight: 600;
     padding: 15px 32px;
@@ -68,7 +68,7 @@ body {
   
   .btn:hover {
     background-color: #ffffff;
-    color: #017cff;
+    color: #9b2bf6;
   }
   
   .gif_container {
