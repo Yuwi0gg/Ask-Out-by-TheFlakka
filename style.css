@@ -77,11 +77,11 @@ body {
     align-items: center;
   }
   p {
-    color: rgb(237, 50, 50);
+    color: rgb(255, 0, 0);
     margin-left: 50%;
   }
   p a {
-    color: rgb(244, 45, 45);
+    color: rgb(255, 0, 0);
     font-size: 20px;
     font-weight: 600;
     opacity: 0.25;
